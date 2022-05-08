@@ -1,0 +1,29 @@
+.list_dagger_r {
+    margin-right: 10px;
+}
+
+.list_dagger_r:hover {
+    transition: .8s;
+    transform: rotate(-360deg);
+}
+
+.list_dagger {
+    display: block;
+    width: 30px;
+    height: 5px;
+
+    border-radius: 2px;
+    background:rgb(228, 71, 71);
+
+    position: absolute;
+    left: 0;
+    bottom: 40%;
+}
+
+.list_dagger_1 {
+    transform: rotate(45deg);
+}
+
+.list_dagger_2 {
+    transform: rotate(-45deg);
+}

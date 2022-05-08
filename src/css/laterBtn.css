@@ -1,0 +1,31 @@
+.list_later_add {
+    width: 20px;
+    height: 30px;
+
+    margin-right: 10px;
+}
+
+.list_later_add:hover {
+    transition: .7s;
+    transform:translateY(10%);
+}
+
+.list_later {
+    display: block;
+    width: 25px;
+    height: 5px;
+
+    border-radius: 2px;
+    background: rgb(221, 221, 94);
+
+    position: absolute;
+    left: -50%;
+    bottom: 45%;
+
+    transform: rotate(90deg);
+}
+
+.list_later_2 {
+    margin-left: 10px; 
+}
+

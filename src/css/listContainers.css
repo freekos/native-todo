@@ -1,0 +1,8 @@
+.list_containers {
+    display: flex;
+    flex-direction: column;
+
+    width: 580px;
+    max-width: 100%;
+    max-height: 100%;
+}

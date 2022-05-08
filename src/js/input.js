@@ -24,7 +24,6 @@ function createCross() {
 
     inputAdd.append(crossF);
     inputAdd.append(crossS);
-
     input.append(inputAdd);
 }
 

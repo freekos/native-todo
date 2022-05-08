@@ -1,0 +1,72 @@
+.date {
+    display: flex;
+    justify-content: space-between;
+
+    width: 600px;
+    max-width: 100%;
+    height: 145px;
+
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.date_d {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+    width: 200px;
+    max-width: 100%;
+    height: 100px;
+}
+
+.date_week {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    width: 200px;
+    max-width: 100%;
+    height: 100px;
+}
+
+.date_item {
+    display: block;
+    width: 55px;
+    height: 60px;
+}
+
+.date_w_item {
+    display: block;
+    max-width: 100%;
+    height: 25px;
+}
+
+.date_d_p {
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    line-height: 50px;
+    margin-right: 3px;
+
+    color:antiquewhite;
+}
+
+.date_p {
+    font-size: 25px;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 20px;
+
+    color:azure
+}
+
+.date_m_p {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    color:antiquewhite;
+}

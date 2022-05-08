@@ -1,0 +1,33 @@
+.list_completed_add {
+    width: 32px;
+}
+
+.list_completed_add:hover {
+    transition: 2s;
+    transform: rotateY(360deg);
+}
+
+.list_completed {
+    display: block;
+    width: 26px;
+    height: 5px;
+
+    border-radius: 2px;
+    background: rgb(129, 216, 129);
+
+    position: absolute;
+    right: 0;
+    bottom: 46%;
+}
+
+.list_completed_1 {
+    transform: rotate(45deg);
+    width: 15px;
+
+    right: 53%;
+    bottom: 33%;
+}
+
+.list_completed_2 {
+    transform: rotate(-50deg);
+}
