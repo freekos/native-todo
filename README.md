@@ -1,7 +1,7 @@
 # Todo-List
 ![image](https://user-images.githubusercontent.com/81808264/167299300-b32a51b7-d8d3-4ef8-a4cf-d58d916ad5f8.png)
 
-## What is Todo List ??
+## What is Todo-List ??
 ~Todo-List it is a scheduler written in Pure JS.
 
 ## What does Todo-List do?
